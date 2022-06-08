@@ -17,7 +17,8 @@ My collection:
 - [Kubernetes Cookbook] https://www.oreilly.com/library/view/kubernetes-cookbook/9781491979679/
 - [Advanced Kubernetes Objects You Need to Know] https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28
 - [Play with Kubernetes] https://labs.play-with-k8s.com/
-
+- [Debug Failed Pods] https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/
+- [How To Troubleshoot Kubernetes Pods: Beginners Guide] https://devopscube.com/troubleshoot-kubernetes-pods/
 
 ## Docker:
 - https://www.freecodecamp.org/news/the-docker-handbook/ [hand book]
