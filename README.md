@@ -2,8 +2,8 @@
 
 # k8s:
 - [hand book](https://www.freecodecamp.org/news/the-kubernetes-handbook/) 
-- [Nana](https://www.youtube.com/watch?v=X48VuDVv0do) 
-- [custom resources](https://www.youtube.com/watch?v=xGafiZEX0YA)
+- [Nana Video](https://www.youtube.com/watch?v=X48VuDVv0do) 
+- [create custom resources](https://www.youtube.com/watch?v=xGafiZEX0YA)
 - [kubebuilder book](https://book.kubebuilder.io/introduction.html) 
 
 ## k8s advanced topics:
@@ -25,6 +25,6 @@ My collection:
 - [hand book](https://www.freecodecamp.org/news/the-docker-handbook/)
 
 ## AWS:
-- [plural sight](https://app.pluralsight.com/course-player?clipId=7c488157-9d19-42ab-abd7-255ba61bfdc3)
-- [less important](https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/table-of-contents)
+- [AWS Network Design: Getting Started](https://app.pluralsight.com/course-player?clipId=7c488157-9d19-42ab-abd7-255ba61bfdc3)
+- [Fundamental Cloud Concepts for AWS](https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/table-of-contents)
 - [Architecting for Reliability on AWS](https://app.pluralsight.com/library/courses/5d7122ad-e99e-4d04-bd9b-60bd9c44ba3d/table-of-contents)
