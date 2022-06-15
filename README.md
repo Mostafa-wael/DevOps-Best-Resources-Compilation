@@ -26,3 +26,5 @@ My collection:
 ## AWS:
 - https://app.pluralsight.com/course-player?clipId=7c488157-9d19-42ab-abd7-255ba61bfdc3 [plural sight]
 - https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/table-of-contents [less important]
+- https://app.pluralsight.com/library/courses/5d7122ad-e99e-4d04-bd9b-60bd9c44ba3d/table-of-contents [
+Architecting for Reliability on AWS]
