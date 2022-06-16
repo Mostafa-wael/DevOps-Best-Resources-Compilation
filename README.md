@@ -23,6 +23,7 @@ My collection:
 
 ## Docker:
 - [hand book](https://www.freecodecamp.org/news/the-docker-handbook/)
+- [Name Spaces](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/#:~:text=%E2%80%9CNamespaces%20are%20a%20feature%20of,isolate%20processes%20from%20each%20other.)
 
 ## AWS:
 - [AWS Network Design: Getting Started](https://app.pluralsight.com/course-player?clipId=7c488157-9d19-42ab-abd7-255ba61bfdc3)
