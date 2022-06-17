@@ -1,4 +1,5 @@
-# Best-DevOps-Resources
+# DevOps Best Resources Compilation
+This is a compilation of the greatest resources and materials that I've used to get started in DevOps and cloud, as well as to prepare for interviews.
 
 # 📝 Table of Contents
 
