@@ -37,8 +37,9 @@
 - [Nana Video](https://www.youtube.com/watch?v=X48VuDVv0do) 
 - [create custom resources](https://www.youtube.com/watch?v=xGafiZEX0YA)
 - [kubebuilder book](https://book.kubebuilder.io/introduction.html) 
-## Kubernetes advanced topics:
-- [Main Article](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
+
+**Advanced Topics**
+- [Collection of topics](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
 - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
 - [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 - [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
