@@ -15,8 +15,9 @@ This is a compilation of the best resources and materials that I've used to get 
   - [AWS](#AWS)
 - [Infrastructure as a Code](#IaaC)
   - [Terraform](#Terraform)
-- [Prometheus & Grafana](#Prometheus)
-- [Microsevicrs](#Microsevicrs) 
+- [Monitoring](#Monitoring)
+  - [Prometheus & Grafana](#Prometheus)
+- [Microservices](#Microservices) 
 
 # Networking <a name = "Networking"></a>
 - [The OSI Model - Explained by Example](https://www.youtube.com/watch?v=7IS7gigunyI&t=883s)
@@ -36,9 +37,9 @@ This is a compilation of the best resources and materials that I've used to get 
 # Kubernetes <a name = "Kubernetes"></a>
 - [Documentation](https://kubernetes.io/docs/home/)
 - [hand book](https://www.freecodecamp.org/news/the-kubernetes-handbook/) 
-- [Nana Video](https://www.youtube.com/watch?v=X48VuDVv0do) 
-- [create custom resources](https://www.youtube.com/watch?v=xGafiZEX0YA)
 - [kubebuilder book](https://book.kubebuilder.io/introduction.html) 
+- [Nana's Video](https://www.youtube.com/watch?v=X48VuDVv0do) 
+- [create custom resources](https://www.youtube.com/watch?v=xGafiZEX0YA)
 
 **Advanced Topics**
 - [Collection of topics](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
@@ -69,16 +70,18 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Fundamental Cloud Concepts for AWS](https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/table-of-contents)
 - [Architecting for Reliability on AWS](https://app.pluralsight.com/library/courses/5d7122ad-e99e-4d04-bd9b-60bd9c44ba3d/table-of-contents)
 - [AWS Well-Architected Framework-White Papers](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
+- [Full Arabic Course](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
 
 # Infrastructure as a Code <a name = "IaaC"></a>
 ## Terraform <a name = "Terraform"></a>
 - [Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo&t=4806s)
 - [Implementing Terraform with AWS](https://app.pluralsight.com/library/courses/implementing-terraform-aws/table-of-contents)
 
-# Prometheus & Grafana <a name = "Prometheus"></a>
+# Monitoring <a name = "Monitoring"></a>
+## Prometheus & Grafana <a name = "Prometheus"></a>
 - [Golang Application monitoring using Prometheus](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang/)
 - [Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator(part 1)](https://www.youtube.com/watch?v=QoDqxm7ybLc)
 - [Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator(part 2)](https://www.youtube.com/watch?v=mLPg49b33sA)
 
-# Microsevicrs <a name = "Microsevicrs"></a> 
+# Microservices <a name = "Microservices"></a> 
 - [Arabic Course]( https://www.linkedin.com/posts/mahmoud-youssef97_microservices-softwarearchitecture-activity-6943677891633156096-sW1Q) 
