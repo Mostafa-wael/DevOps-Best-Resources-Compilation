@@ -26,6 +26,11 @@ This is a compilation of the best resources and materials that I've used to get 
 
 # Linux <a name = "Linux"></a>
 - [Linux Essentials](https://app.pluralsight.com/paths/certificate/lpi-linux-essentials-010-160)
+- [Linux Hard Links versus Soft Links Explained](https://www.youtube.com/watch?time_continue=422&v=lW_V8oFxQgA&feature=emb_title)
+- [Linux inodes Explained](https://www.youtube.com/watch?v=6KjMlm8hhFA)
+- [Top 10 Linux Job Interview Questions](https://www.youtube.com/watch?v=l0QGLMwR-lY&t=5s)
+- [Firewalls(iptables)](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
+- [Network Namespaces Basics](https://www.youtube.com/watch?v=j_UUnlVC2Ss)
 
 # Docker <a name = "Docker"></a>
 - [Documentation](https://docs.docker.com/)
@@ -33,6 +38,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Name Spaces](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/#:~:text=%E2%80%9CNamespaces%20are%20a%20feature%20of,isolate%20processes%20from%20each%20other.)
 - [Dockerfile linter, validate](https://github.com/hadolint/hadolint)
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Docker (iptables)](https://docs.docker.com/network/iptables/)
 
 # Kubernetes <a name = "Kubernetes"></a>
 - [Documentation](https://kubernetes.io/docs/home/)
