@@ -23,6 +23,12 @@ This is a compilation of the best resources and materials that I've used to get 
 - [The OSI Model - Explained by Example](https://www.youtube.com/watch?v=7IS7gigunyI&t=883s)
 - [Proxy vs Reverse Proxy Server Explained](https://www.youtube.com/watch?v=SqqrOspasag&t=346s)
 - [What are SSL/TLS Certificates? Why do we Need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
+- [DNS](https://www.youtube.com/watch?v=72snZctFFtA)
+- [The 8 steps in a DNS lookup](https://www.cloudflare.com/en-in/learning/dns/what-is-dns/#:~:text=The%208%20steps%20in%20a%20DNS%20lookup)
+- [HTTPS](https://www.youtube.com/watch?v=67kItGjvRs0)
+- [Content Delivery Network](https://www.youtube.com/watch?v=Bsq5cKkS33I)
+- [Classless Interdomain Routing (CIDR)](https://www.youtube.com/watch?v=Q1U9wVXRuHA)
+- [CIDR Blocks AWS](https://www.youtube.com/watch?v=aPW-ZAo09Pg)
 
 # Linux <a name = "Linux"></a>
 - [Linux Essentials](https://app.pluralsight.com/paths/certificate/lpi-linux-essentials-010-160)
@@ -31,6 +37,8 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Top 10 Linux Job Interview Questions](https://www.youtube.com/watch?v=l0QGLMwR-lY&t=5s)
 - [Firewalls(iptables)](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
 - [Network Namespaces Basics](https://www.youtube.com/watch?v=j_UUnlVC2Ss)
+- [NameSpaces & Cgroups](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/#:~:text=%E2%80%9CNamespaces%20are%20a%20feature%20of,isolate%20processes%20from%20each%20other.)
+- [Introduction to Uncomplicated Firewall (UFW)](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
 
 # Docker <a name = "Docker"></a>
 - [Documentation](https://docs.docker.com/)
@@ -39,6 +47,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Dockerfile linter, validate](https://github.com/hadolint/hadolint)
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [Docker (iptables)](https://docs.docker.com/network/iptables/)
+- [Docker Swarm](https://www.sumologic.com/glossary/docker-swarm/)
 
 # Kubernetes <a name = "Kubernetes"></a>
 - [Documentation](https://kubernetes.io/docs/home/)
