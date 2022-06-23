@@ -43,6 +43,7 @@ This is a compilation of the best resources and materials that I've used to get 
 
 **Advanced Topics**
 - [Collection of topics](https://techbeacon.com/enterprise-it/47-advanced-tutorials-mastering-kubernetes)
+- [Kubernetes Persistent Volumes](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices/)
 - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
 - [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 - [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
@@ -71,6 +72,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Architecting for Reliability on AWS](https://app.pluralsight.com/library/courses/5d7122ad-e99e-4d04-bd9b-60bd9c44ba3d/table-of-contents)
 - [AWS Well-Architected Framework-White Papers](https://docs.aws.amazon.com/wellarchitected/latest/framework/the-pillars-of-the-framework.html)
 - [Full Arabic Course](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
+- [How to Create Your First Serverless/Lambda Functions](https://www.progress.com/blogs/how-to-create-your-first-serverless-lambda-functions)
 
 # Infrastructure as a Code <a name = "IaaC"></a>
 ## Terraform <a name = "Terraform"></a>
