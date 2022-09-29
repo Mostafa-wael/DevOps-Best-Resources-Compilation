@@ -69,6 +69,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Play with Kubernetes](https://labs.play-with-k8s.com/)
 - [Debug Failed Pods](https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/)
 - [How To Troubleshoot Kubernetes Pods: Beginners Guide](https://devopscube.com/troubleshoot-kubernetes-pods/)
+- [Certified Kubernetes Application Developer (CKAD)](https://learn.acloud.guru/course/certified-kubernetes-application-developer/overview)
 
 # Helm <a name = "Helm"></a>
 - [Helm - The Kubernetes package manager hands-on course](https://www.udemy.com/course/helm-the-kubernetes-package-manager-hands-on-course/)
