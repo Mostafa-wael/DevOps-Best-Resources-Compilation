@@ -48,6 +48,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [Docker (iptables)](https://docs.docker.com/network/iptables/)
 - [Docker Swarm](https://www.sumologic.com/glossary/docker-swarm/)
+- [Docker Networking](https://youtu.be/OU6xOM0SE4o)
 
 # Kubernetes <a name = "Kubernetes"></a>
 - [Documentation](https://kubernetes.io/docs/home/)
