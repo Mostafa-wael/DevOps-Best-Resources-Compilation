@@ -111,4 +111,5 @@ This is a compilation of the best resources and materials that I've used to get 
 
 # System Design <a name = "system_design"></a> 
 - [The Art of System Design: Practical guide & Lessons from the field in 45 minutes](https://www.youtube.com/watch?v=3IWpU72eixw)
-- [System Design Interview Question: Designing a URL Shortening Service](https://designgurus.org/blog/url-shortening)
+- [System Design Interview Question: Design a URL Shortening Service](https://designgurus.org/blog/url-shortening)
+- [System Design Interview Question: Design A Location Based Service (Yelp, Google Places)](https://www.youtube.com/watch?v=M4lR_Va97cQ&list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8&index=1)
