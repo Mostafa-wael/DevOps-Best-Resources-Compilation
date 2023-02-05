@@ -32,6 +32,9 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Content Delivery Network](https://www.youtube.com/watch?v=Bsq5cKkS33I)
 - [Classless Interdomain Routing (CIDR)](https://www.youtube.com/watch?v=Q1U9wVXRuHA)
 - [CIDR Blocks AWS](https://www.youtube.com/watch?v=aPW-ZAo09Pg)
+- [What is RPC? gRPC Introduction](https://www.youtube.com/watch?v=gnchfOojMk4&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=12)
+- [SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=14)
+- [HTTP/1 to HTTP/2 to HTTP/3](https://www.youtube.com/watch?v=a-sBfyiXysI&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=3)
 
 # Linux <a name = "Linux"></a>
 - [Linux Essentials](https://app.pluralsight.com/paths/certificate/lpi-linux-essentials-010-160)
@@ -111,5 +114,10 @@ This is a compilation of the best resources and materials that I've used to get 
 
 # System Design <a name = "system_design"></a> 
 - [The Art of System Design: Practical guide & Lessons from the field in 45 minutes](https://www.youtube.com/watch?v=3IWpU72eixw)
+- [What Is GraphQL? REST vs. GraphQL](https://www.youtube.com/watch?v=yWzKJPw_VzM&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=11)
+- [What is API Gateway?](https://www.youtube.com/watch?v=6ULyxuHKxg8&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=10)
+- [What Is Single Sign-on (SSO)? How It Works](https://www.youtube.com/watch?v=O1cRJWYF-g4&list=PLCRMIe5FDPseEIW687mH-LZ-DMNbzAQLF&index=2)
+- [How to store passwords in the database?](https://www.youtube.com/watch?v=zt8Cocdy15c&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=4)
+- [Why is Kafka fast?](https://www.youtube.com/watch?v=UNUz1-msbOM&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=5&t=7s)
 - [System Design Interview Question: Design a URL Shortening Service](https://designgurus.org/blog/url-shortening)
 - [System Design Interview Question: Design A Location Based Service (Yelp, Google Places)](https://www.youtube.com/watch?v=M4lR_Va97cQ&list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8&index=1)
