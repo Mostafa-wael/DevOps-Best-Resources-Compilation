@@ -20,6 +20,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Monitoring ](#monitoring-)
   - [Prometheus \& Grafana ](#prometheus--grafana-)
 - [Microservices ](#microservices-)
+- [System Design](#system-design-)
 
 # Networking <a name = "Networking"></a>
 - [The OSI Model - Explained by Example](https://www.youtube.com/watch?v=7IS7gigunyI&t=883s)
@@ -107,3 +108,7 @@ This is a compilation of the best resources and materials that I've used to get 
 # Microservices <a name = "Microservices"></a> 
 - [Arabic Course](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z) 
 - [Startup Project](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+# System Design <a name = "system_design"></a> 
+- [The Art of System Design: Practical guide & Lessons from the field in 45 minutes](https://www.youtube.com/watch?v=3IWpU72eixw)
+- [System Design Interview Question: Designing a URL Shortening Service](https://designgurus.org/blog/url-shortening)
