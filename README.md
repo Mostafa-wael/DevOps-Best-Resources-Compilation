@@ -105,4 +105,5 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Setup Prometheus Monitoring on Kubernetes using Helm and Prometheus Operator(part 2)](https://www.youtube.com/watch?v=mLPg49b33sA)
 
 # Microservices <a name = "Microservices"></a> 
-- [Arabic Course]( https://www.linkedin.com/posts/mahmoud-youssef97_microservices-softwarearchitecture-activity-6943677891633156096-sW1Q) 
+- [Arabic Course](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z) 
+- [Startup Project](https://github.com/GoogleCloudPlatform/microservices-demo)
