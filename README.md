@@ -96,6 +96,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Full Arabic Course](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf)
 - [How to Create Your First Serverless/Lambda Functions](https://www.progress.com/blogs/how-to-create-your-first-serverless-lambda-functions)
 - [AWS Essentials](https://www.youtube.com/playlist?list=PLv2a_5pNAko0Mijc6mnv04xeOut443Wnk)
+- [Various Topics](https://www.youtube.com/c/StephaneMaarek/playlists)
 
 # Infrastructure as a Code <a name = "IaaC"></a>
 ## Terraform <a name = "Terraform"></a>
