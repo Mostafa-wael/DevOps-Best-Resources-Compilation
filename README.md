@@ -72,6 +72,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
 - [How To Troubleshoot Kubernetes Pods: Beginners Guide](https://devopscube.com/troubleshoot-kubernetes-pods/)
 - [Debug Failed Pods](https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/)
+- [Kubernetes Tutorial for Beginners: Basic Concepts](https://spacelift.io/blog/kubernetes-tutorial)
 
 **Advanced Topics**
 - [Advanced Kubernetes Objects You Need to Know](https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28)
