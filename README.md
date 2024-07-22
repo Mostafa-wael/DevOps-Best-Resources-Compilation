@@ -24,26 +24,30 @@ This is a compilation of the best resources and materials that I've used to get 
 
 # Networking <a name = "Networking"></a>
 - [The OSI Model - Explained by Example](https://www.youtube.com/watch?v=7IS7gigunyI&t=883s)
+- [How Application Layer Services Work](https://www.youtube.com/watch?v=mGRClHHgNdk&list=PLQVJk9oC5JKp_8F9LPa3Pv67boA80KLm1&index=5)
 - [Proxy vs Reverse Proxy Server Explained](https://www.youtube.com/watch?v=SqqrOspasag&t=346s)
-- [What are SSL/TLS Certificates? Why do we Need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
 - [DNS](https://www.youtube.com/watch?v=72snZctFFtA)
 - [The 8 steps in a DNS lookup](https://www.cloudflare.com/en-in/learning/dns/what-is-dns/#:~:text=The%208%20steps%20in%20a%20DNS%20lookup)
-- [HTTPS](https://www.youtube.com/watch?v=67kItGjvRs0)
 - [Content Delivery Network](https://www.youtube.com/watch?v=Bsq5cKkS33I)
 - [Classless Interdomain Routing (CIDR)](https://www.youtube.com/watch?v=Q1U9wVXRuHA)
 - [CIDR Blocks AWS](https://www.youtube.com/watch?v=aPW-ZAo09Pg)
-- [What is RPC? gRPC Introduction](https://www.youtube.com/watch?v=gnchfOojMk4&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=12)
+- [HTTPS](https://www.youtube.com/watch?v=67kItGjvRs0)
+- [What are SSL/TLS Certificates? Why do we need them? and How do they Work?](https://www.youtube.com/watch?v=r1nJT63BFQ0)
 - [SSL, TLS, HTTPS Explained](https://www.youtube.com/watch?v=j9QmMEWmcfo&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=14)
 - [HTTP/1 to HTTP/2 to HTTP/3](https://www.youtube.com/watch?v=a-sBfyiXysI&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=3)
+- [What is RPC? gRPC Introduction](https://www.youtube.com/watch?v=gnchfOojMk4&list=PLCRMIe5FDPse7NNmQP5UziLjXjkHW3gqA&index=12)
 
 # Linux <a name = "Linux"></a>
 - [Linux Essentials](https://app.pluralsight.com/paths/certificate/lpi-linux-essentials-010-160)
-- [Linux Hard Links versus Soft Links Explained](https://www.youtube.com/watch?time_continue=422&v=lW_V8oFxQgA&feature=emb_title)
-- [Linux inodes Explained](https://www.youtube.com/watch?v=6KjMlm8hhFA)
-- [Top 10 Linux Job Interview Questions](https://www.youtube.com/watch?v=l0QGLMwR-lY&t=5s)
-- [Firewalls(iptables)](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
+- [Top 10 Linux Job Interview Questions](https://faun.pub/top-10-linux-interview-questions-how-many-questions-can-you-answer-correctly-d3a469b9918c)
+- [User Account Management](https://www.youtube.com/watch?v=UN1QB5BIvps).
+- [The /proc Filesystem](https://www.youtube.com/watch?v=0XdjODvsRN8).
+- [Linux inodes Explained](https://www.youtube.com/watch?v=6KjMlm8hhFA).
+- [Linux Hard Links versus Soft Links Explained](https://www.youtube.com/watch?time_continue=422&v=lW_V8oFxQgA&feature=emb_title).
+- [Linux systemd](https://www.youtube.com/playlist?list=PLtK75qxsQaMKPbuVpGuqUQYRiTwTAmqeI)
 - [Network Namespaces Basics](https://www.youtube.com/watch?v=j_UUnlVC2Ss)
-- [NameSpaces & Cgroups](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/#:~:text=%E2%80%9CNamespaces%20are%20a%20feature%20of,isolate%20processes%20from%20each%20other.)
+- [NameSpaces & Cgroups](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/#:~:text=%E2%80%9CNamespaces%20are%20a%20feature%20of,isolate%20processes%20from%20each%20other.).
+- [Firewalls(iptables)](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/).
 - [Introduction to Uncomplicated Firewall (UFW)](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
 
 # Docker <a name = "Docker"></a>
@@ -72,8 +76,6 @@ This is a compilation of the best resources and materials that I've used to get 
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
 - [How To Troubleshoot Kubernetes Pods: Beginners Guide](https://devopscube.com/troubleshoot-kubernetes-pods/)
 - [Debug Failed Pods](https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/)
-
-**Advanced Topics**
 - [Advanced Kubernetes Objects You Need to Know](https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28)
 - [Certified Kubernetes Application Developer (CKAD)](https://learn.acloud.guru/course/certified-kubernetes-application-developer/overview)
 
