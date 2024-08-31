@@ -59,6 +59,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Docker (iptables)](https://docs.docker.com/network/iptables/)
 - [Docker Swarm](https://www.sumologic.com/glossary/docker-swarm/)
 - [Docker Networking](https://youtu.be/OU6xOM0SE4o)
+- [Docker in Depth](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
 
 # Kubernetes <a name = "Kubernetes"></a>
 - [Documentation](https://kubernetes.io/docs/home/)
