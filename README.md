@@ -7,6 +7,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [📝 Table of Contents](#-table-of-contents)
 - [Networking ](#networking-)
 - [Linux ](#linux-)
+- [Git ](#git-)
 - [Docker ](#docker-)
 - [Kubernetes ](#kubernetes-)
 - [Helm ](#helm-)
@@ -39,7 +40,9 @@ This is a compilation of the best resources and materials that I've used to get 
 
 # Linux <a name = "Linux"></a>
 - [Linux Essentials](https://app.pluralsight.com/paths/certificate/lpi-linux-essentials-010-160)
+- [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=52)
 - [Top 10 Linux Job Interview Questions](https://faun.pub/top-10-linux-interview-questions-how-many-questions-can-you-answer-correctly-d3a469b9918c)
+- [File Permissions](https://www.youtube.com/watch?v=4N4Q576i3zA&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=71)
 - [User Account Management](https://www.youtube.com/watch?v=UN1QB5BIvps).
 - [The /proc Filesystem](https://www.youtube.com/watch?v=0XdjODvsRN8).
 - [Linux inodes Explained](https://www.youtube.com/watch?v=6KjMlm8hhFA).
@@ -49,6 +52,11 @@ This is a compilation of the best resources and materials that I've used to get 
 - [NameSpaces & Cgroups](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/#:~:text=%E2%80%9CNamespaces%20are%20a%20feature%20of,isolate%20processes%20from%20each%20other.).
 - [Firewalls(iptables)](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/).
 - [Introduction to Uncomplicated Firewall (UFW)](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
+- [Linux Performance Tools](https://www.youtube.com/watch?v=iJ_eIsA5E1U&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=76)
+
+# Git <a name = "Git"></a>
+- [How does Git Work?](https://www.youtube.com/watch?v=e9lnsKot_SQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=47).
+- [Git MERGE vs REBASE vs SQUASH](https://www.youtube.com/watch?v=0chZFIZLR_0).
 
 # Docker <a name = "Docker"></a>
 - [Documentation](https://docs.docker.com/)
@@ -92,6 +100,7 @@ This is a compilation of the best resources and materials that I've used to get 
 
 # Cloud Providers <a name = "Providers"></a>
 ## AWS <a name = "AWS"></a>
+- [Build a Simple AWS Network](https://www.youtube.com/watch?v=aKtA4bZ2Skc&list=PLDtEWvTEOpw5j_XUN6_atkeWh90lJ6JYT&index=2)
 - [AWS Network Design: Getting Started](https://app.pluralsight.com/course-player?clipId=7c488157-9d19-42ab-abd7-255ba61bfdc3)
 - [Fundamental Cloud Concepts for AWS](https://app.pluralsight.com/library/courses/fundamental-cloud-concepts-aws/table-of-contents)
 - [Architecting for Reliability on AWS](https://app.pluralsight.com/library/courses/5d7122ad-e99e-4d04-bd9b-60bd9c44ba3d/table-of-contents)
