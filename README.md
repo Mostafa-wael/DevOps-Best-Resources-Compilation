@@ -1,5 +1,5 @@
 # DevOps Best Resources Compilation
-This is a compilation of the best resources and materials that I've used to get started in DevOps and cloud, as well as to prepare for interviews.
+This is a compilation of the best resources and materials that I've used to get started in DevOps & cloud, as well as to prepare for interviews.
 
 # 📝 Table of Contents
 
@@ -60,7 +60,7 @@ This is a compilation of the best resources and materials that I've used to get 
 
 # Docker <a name = "Docker"></a>
 - [Documentation](https://docs.docker.com/)
-- [hand book](https://www.freecodecamp.org/news/the-docker-handbook/)
+- [handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 - [Name Spaces](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/#:~:text=%E2%80%9CNamespaces%20are%20a%20feature%20of,isolate%20processes%20from%20each%20other.)
 - [Dockerfile linter, validate](https://github.com/hadolint/hadolint)
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
@@ -80,11 +80,12 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
 - [Kubernetes Persistent Volumes](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices/)
-- [Understanding kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
+- [Understanding Kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
 - [How To Troubleshoot Kubernetes Pods: Beginners Guide](https://devopscube.com/troubleshoot-kubernetes-pods/)
 - [Debug Failed Pods](https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/)
+- [Certificate Management in k8s using Cert-Manager](https://www.youtube.com/watch?v=hoLUigg4V18)
 - [Advanced Kubernetes Objects You Need to Know](https://engineering.opsgenie.com/advanced-kubernetes-objects-53f5e9bc0c28)
 - [Certified Kubernetes Application Developer (CKAD)](https://learn.acloud.guru/course/certified-kubernetes-application-developer/overview)
 
