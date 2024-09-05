@@ -102,6 +102,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Understanding Kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
+- [Nginx Ingress Controller & Cert Manager Setup](https://www.youtube.com/watch?v=N7W_nsEA-Ao)
 - [How To Troubleshoot Kubernetes Pods: Beginners Guide](https://devopscube.com/troubleshoot-kubernetes-pods/)
 - [Debug Failed Pods](https://www.datadoghq.com/blog/debug-kubernetes-pending-pods/)
 - [Certificate Management in k8s using Cert-Manager](https://www.youtube.com/watch?v=hoLUigg4V18)
