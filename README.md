@@ -135,6 +135,7 @@ This is a compilation of the best resources and materials that I've used to get 
 ## Terraform <a name = "Terraform"></a>
 - [Terraform Course - Automate your AWS cloud infrastructure](https://www.youtube.com/watch?v=SLB_c_ayRMo&t=4806s)
 - [Implementing Terraform with AWS](https://app.pluralsight.com/library/courses/implementing-terraform-aws/table-of-contents)
+- [Resources Drift](https://developer.hashicorp.com/terraform/tutorials/state/resource-drift)
 
 # Monitoring <a name = "Monitoring"></a>
 ## Prometheus & Grafana <a name = "Prometheus"></a>
