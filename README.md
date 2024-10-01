@@ -6,7 +6,21 @@ This is a compilation of the best resources and materials that I've used to get 
 - [DevOps Best Resources Compilation](#devops-best-resources-compilation)
 - [📝 Table of Contents](#-table-of-contents)
 - [Networking ](#networking-)
+  - [OSI](#osi)
+  - [DNS](#dns)
+  - [CDN](#cdn)
+  - [CIDR Blocks](#cidr-blocks)
+  - [HTTP, HTTPs, and certificates](#http-https-and-certificates)
+  - [APIs](#apis)
+  - [Netowrk Components](#netowrk-components)
 - [Linux ](#linux-)
+  - [Intro](#intro)
+  - [User Account Management](#user-account-management)
+  - [Storage](#storage)
+  - [Procceses](#procceses)
+  - [Firewalls](#firewalls)
+  - [Namespaces \& Cgroups](#namespaces--cgroups)
+  - [Interview Questions](#interview-questions)
 - [Git ](#git-)
 - [Docker ](#docker-)
 - [Kubernetes ](#kubernetes-)
@@ -14,14 +28,15 @@ This is a compilation of the best resources and materials that I've used to get 
 - [CI/CD  ](#cicd--)
   - [Jenkins ](#jenkins-)
   - [Github Actions ](#github-actions-)
+  - [ArgoCD ](#argocd-)
 - [Cloud Providers ](#cloud-providers-)
   - [AWS ](#aws-)
 - [Infrastructure as a Code ](#infrastructure-as-a-code-)
   - [Terraform ](#terraform-)
 - [Monitoring ](#monitoring-)
   - [Prometheus \& Grafana ](#prometheus--grafana-)
-- [Microservices & Distributed Systems](#microservices-)
-- [System Design](#system-design-)
+- [Microservices \& Distributed Systems ](#microservices--distributed-systems-)
+- [System Design ](#system-design-)
 
 # Networking <a name = "Networking"></a>
 ## OSI
@@ -55,17 +70,17 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Linux Essentials](https://app.pluralsight.com/paths/certificate/lpi-linux-essentials-010-160)
 - [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=52)
 ## User Account Management
-- [User Account Management](https://www.youtube.com/watch?v=UN1QB5BIvps).
+- [User Account Management](https://www.youtube.com/watch?v=UN1QB5BIvps)
 ## Storage
 - [File Permissions](https://www.youtube.com/watch?v=4N4Q576i3zA&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=71)
-- [Linux inodes Explained](https://www.youtube.com/watch?v=6KjMlm8hhFA).
-- [Linux Hard Links versus Soft Links Explained](https://www.youtube.com/watch?time_continue=422&v=lW_V8oFxQgA&feature=emb_title).
+- [Linux inodes Explained](https://www.youtube.com/watch?v=6KjMlm8hhFA)
+- [Linux Hard Links versus Soft Links Explained](https://www.youtube.com/watch?time_continue=422&v=lW_V8oFxQgA&feature=emb_title)
 - [Linux systemd](https://www.youtube.com/playlist?list=PLtK75qxsQaMKPbuVpGuqUQYRiTwTAmqeI)
 ## Procceses
-- [The /proc Filesystem](https://www.youtube.com/watch?v=0XdjODvsRN8).
+- [The /proc Filesystem](https://www.youtube.com/watch?v=0XdjODvsRN8)
 - [Linux Performance Tools](https://www.youtube.com/watch?v=iJ_eIsA5E1U&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=76)
 ## Firewalls
-- [Firewalls(iptables)](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/).
+- [Firewalls(iptables)](https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/)
 - [Introduction to Uncomplicated Firewall (UFW)](https://www.linux.com/training-tutorials/introduction-uncomplicated-firewall-ufw/)
 ## Namespaces & Cgroups
 - [Network Namespaces Basics](https://www.youtube.com/watch?v=j_UUnlVC2Ss)
@@ -74,8 +89,8 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Top 10 Linux Job Interview Questions](https://faun.pub/top-10-linux-interview-questions-how-many-questions-can-you-answer-correctly-d3a469b9918c)
 
 # Git <a name = "Git"></a>
-- [How does Git Work?](https://www.youtube.com/watch?v=e9lnsKot_SQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=47).
-- [Git MERGE vs REBASE vs SQUASH](https://www.youtube.com/watch?v=0chZFIZLR_0).
+- [How does Git Work?](https://www.youtube.com/watch?v=e9lnsKot_SQ&list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf&index=47)
+- [Git MERGE vs REBASE vs SQUASH](https://www.youtube.com/watch?v=0chZFIZLR_0)
 
 # Docker <a name = "Docker"></a>
 - [Documentation](https://docs.docker.com/)
@@ -85,15 +100,15 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 - [Docker (iptables)](https://docs.docker.com/network/iptables/)
 - [Docker Networking](https://youtu.be/OU6xOM0SE4o)
-- [Intro to Docker Swarm](https://www.sumologic.com/glossary/docker-swarm/)
 - [Docker in Depth](https://medium.com/@furkan.turkal/how-does-docker-actually-work-the-hard-way-a-technical-deep-diving-c5b8ea2f0422)
+- [Intro to Docker Swarm](https://www.sumologic.com/glossary/docker-swarm/)
 
 # Kubernetes <a name = "Kubernetes"></a>
 - [Documentation](https://kubernetes.io/docs/home/)
-- [hand book](https://www.freecodecamp.org/news/the-kubernetes-handbook/) 
-- [kubebuilder book](https://book.kubebuilder.io/introduction.html) 
+- [hand book](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
+- [kubebuilder book](https://book.kubebuilder.io/introduction.html)
 - [Kubernetes Cookbook](https://www.oreilly.com/library/view/kubernetes-cookbook/9781491979679/)
-- [Nana's Video](https://www.youtube.com/watch?v=X48VuDVv0do) 
+- [Nana's Video](https://www.youtube.com/watch?v=X48VuDVv0do)
 - [create custom resources](https://www.youtube.com/watch?v=xGafiZEX0YA)
 - [Play with Kubernetes](https://labs.play-with-k8s.com/)
 - [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
@@ -118,6 +133,8 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Complete Jenkins Pipeline Tutorial | Jenkinsfile explained](https://www.youtube.com/watch?v=7KCS70sCoK0)
 ## Github Actions <a name = "GH_Actions"></a>
 - [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker](https://www.youtube.com/watch?v=R8_veQiYBjI)
+## ArgoCD <a name = "ArgoCD"></a>
+- [ArgoCD](https://www.youtube.com/watch?v=MeU5_k9ssrs&t)
 
 # Cloud Providers <a name = "Providers"></a>
 ## AWS <a name = "AWS"></a>
@@ -146,7 +163,7 @@ This is a compilation of the best resources and materials that I've used to get 
 # Microservices & Distributed Systems <a name = "Microservices"></a> 
 - [Startup Project](https://github.com/GoogleCloudPlatform/microservices-demo)
 - [Distributed Systems بالعربي](https://www.youtube.com/playlist?list=PLald6EODoOJW3alE1oPAkGF0bHZkPIeTK)
-- [Microservices Architecture in Arabic](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z) 
+- [Microservices Architecture in Arabic](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z)
 
 # System Design <a name = "system_design"></a> 
 - [The Art of System Design: Practical guide & Lessons from the field in 45 minutes](https://www.youtube.com/watch?v=3IWpU72eixw)
