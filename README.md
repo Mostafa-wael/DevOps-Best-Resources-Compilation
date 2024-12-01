@@ -114,6 +114,7 @@ This is a compilation of the best resources and materials that I've used to get 
 - [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 - [Top 10 Kubernetes tips and tricks](https://hackernoon.com/top-10-kubernetes-tips-and-tricks-27528c2d0222)
 - [Kubernetes Persistent Volumes](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices/)
+- [Secrets in K8s(External Secrets & External Secrets Operator )](https://www.kubecost.com/kubernetes-devops-tools/kubernetes-external-secrets/)
 - [Understanding Kubernetes networking: pods](https://medium.com/google-cloud/understanding-kubernetes-networking-pods-7117dd28727)
 - [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 - [kubernetes-security-best-practice](https://github.com/freach/kubernetes-security-best-practice)
